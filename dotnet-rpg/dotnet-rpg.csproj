@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>dotnet_rpg</RootNamespace>
+    <UserSecretsId>27105090-b245-4fe6-9355-735ce22bc10f</UserSecretsId>
+  </PropertyGroup>
+
+
+</Project>
