@@ -6,5 +6,9 @@
     <UserSecretsId>27105090-b245-4fe6-9355-735ce22bc10f</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+  </ItemGroup>
+
 
 </Project>
